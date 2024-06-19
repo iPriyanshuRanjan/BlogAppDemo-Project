@@ -1,0 +1,1 @@
+BlogAppDemo-Project is an blog application that provides a platform for individuals to express their thoughts, share their experiences, and engage with a community of readers and writers. Our mission is to empower content creators with a simple yet powerful tool to publish their work and connect with audiences around the world.
